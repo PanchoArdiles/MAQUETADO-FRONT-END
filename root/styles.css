@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 26px;
+    font-size:46px;
+}
+      
+#whatsapp {
+    background-color: green;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+h4 {
+    text-align: center;
+}
+a.facebookshare {
+    background-color: #3b5998;
+    }
+    a.facebookshare:hover, a.twittershare:hover, a.pinterestshare:hover, a.printshare:hover {
+        text-decoration: none !important;
+        box-shadow: inset 0px -4px 0px 0px rgba(0, 0, 0, 0.3);
+    }
+    a.facebookshare, a.twittershare, a.pinterestshare, a.printshare {
+        display: block;
+        margin: 0em 0.5em 1em 0em;
+        font-size: 12px;
+        float: left;
+        color: #FFF;
+        border-radius: 3px;
+        text-decoration: none;
+        padding: 0.5em;
+        border: none;
+        box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.2);}
+        .custom-html-widget .rdr-newsletter input[type="text"], .custom-html-widget .rdr-newsletter form input[type="email"] {
+            box-sizing: border-box;
+            width: 100%;}
+            
